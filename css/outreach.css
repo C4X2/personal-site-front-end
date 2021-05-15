@@ -1,0 +1,30 @@
+.about-me-text {
+    color: #888888;
+    font-family: llxb;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+}
+
+.about-me-header {
+    color: #888888;
+    font-family: llxb;
+    text-decoration: underline;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+}
+
+.github-link
+{
+    text-decoration: none;
+}
