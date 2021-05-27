@@ -19,7 +19,7 @@
                    message : formMessage
                 };
 
-                const postLocation = 'http://45.132.242.77:8080/contact';
+                const postLocation = 'https://firefastapi.online/contact';
                 const init = {
                     method: 'POST',
                     mode: 'cors',
