@@ -22,7 +22,7 @@
                 const postLocation = 'https://firefastapi.online/contact';
                 const init = {
                     method: 'POST',
-                    mode: 'cors',
+                    mode: 'no-cors',
                     cache: 'no-cache',
                     headers: {
                         'Content-Type': 'application/json'
